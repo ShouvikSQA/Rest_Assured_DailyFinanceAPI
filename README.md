@@ -47,7 +47,7 @@ Do following steps :
 ## API Collection Documentation
   [Click Here To See the API Collection Documentation ](https://documenter.getpostman.com/view/28923318/2sB2j7c8q3)
 ## Test Cases For API
-   [Click Here to see the Test Cases for API Collection]()
+   [Click Here to see the Test Cases for API Collection](https://docs.google.com/spreadsheets/d/1RUCVZOHitbYrhqRl6NeQlEx0172XidJ3/edit?usp=sharing&ouid=108139447743460312613&rtpof=true&sd=true)
 ## Allure Report
 ![image](https://github.com/user-attachments/assets/59795a38-ef1d-4c5c-b2bc-0ec23ff8e605)
 ![image](https://github.com/user-attachments/assets/e59a5deb-c01b-4787-a78b-e9480584ff3b)
