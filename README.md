@@ -21,4 +21,35 @@ Do following steps :
     - Delete any item from the item list
 
 
-4. Now automate the collection using Rest Assured. Add necessary negative test cases while needed
+3. Now automate the collection using Rest Assured. Add necessary negative test cases while needed.
+
+## Technology used:
+- Java
+- Intellij idea
+
+## Framework used:
+  - TestNG
+  - Rest Assured
+  - Allure
+
+
+## How to Run the Project
+1. Clone this project
+2. Open cmd in the root folder.
+3. Give the following command:  _````gradle clean test````_
+
+## To generate Allure Report:
+1. Open cmd in the root folder.
+2. Give the following commands:
+   
+  *  _````allure generate allure-reports --clean -output````_
+  *  _````allure serve allure-results````_
+## API Collection Documentation
+  [Click Here To See the API Collection Documentation ]()
+## Test Cases For API
+   [Click Here to see the Test Cases for API Collection]()
+## Allure Report
+![image](https://github.com/user-attachments/assets/59795a38-ef1d-4c5c-b2bc-0ec23ff8e605)
+![image](https://github.com/user-attachments/assets/e59a5deb-c01b-4787-a78b-e9480584ff3b)
+
+
