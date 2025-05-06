@@ -45,7 +45,7 @@ Do following steps :
   *  _````allure generate allure-reports --clean -output````_
   *  _````allure serve allure-results````_
 ## API Collection Documentation
-  [Click Here To See the API Collection Documentation ]()
+  [Click Here To See the API Collection Documentation ](https://documenter.getpostman.com/view/28923318/2sB2j7c8q3)
 ## Test Cases For API
    [Click Here to see the Test Cases for API Collection]()
 ## Allure Report
