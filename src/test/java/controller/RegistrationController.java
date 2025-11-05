@@ -19,6 +19,8 @@ public class RegistrationController {
 
     public Response register(UserModel userModel) {
 
+        System.out.println("Hello World");
+
         Response response = given().contentType("application/json")
                 .body(userModel).when().post("/api/auth/register");
         return response;
